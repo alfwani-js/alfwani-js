@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @alfwani-js
-- 👀 I’m interested in javascript language and its frameworks
-- i am also very interested in the java language
+- 👋 Hi, I’m ian alfwani a javascript full stack developer
+- 👀 I’m interested in Next.js, React.js, Node.js, mongoDB etc
+- i am also very interested in the java and kotlin language in Android development
 - 🌱 I’m currently a QA Engineer.
 - 💞️ I’m looking to collaborate on ...any web application 
-- 📫 How to reach me ... ianalfwani1@gmail.com or call me on 254713127521
+- 📫
 
 <!---
 alfwani-js/alfwani-js is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
